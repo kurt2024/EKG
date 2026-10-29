@@ -1,0 +1,25 @@
+{
+  "name": "cardiovision-ecg",
+  "version": "1.0.0",
+  "description": "CardioVision ECG görsel analizi ve hasta rapor özeti mobil uygulaması",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ecg",
+    "capacitor",
+    "mobile",
+    "healthcare"
+  ],
+  "author": "CardioVision Team",
+  "license": "MIT",
+  "dependencies": {
+    "@capacitor/android": "^6.0.0",
+    "@capacitor/core": "^6.0.0",
+    "@capacitor/status-bar": "^6.0.0"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.0.0"
+  }
+}

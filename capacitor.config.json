@@ -1,0 +1,9 @@
+{
+  "appId": "com.cardiovision.ecg",
+  "appName": "CardioVision ECG",
+  "webDir": ".",
+  "bundledWebRuntime": false,
+  "android": {
+    "backgroundColor": "#0f172a"
+  }
+}
